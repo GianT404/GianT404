@@ -19,7 +19,7 @@ I craft digital experiences through elegant code and thoughtful design. My work 
 <details>
 <summary><b>🏯 My Philosophy</b></summary>
 <br>
-<i>"始めたことを途中でやめてはならない。 (Never leave a task unfinished.)"</i><br><br>
+<i>Never leave a task unfinished.</i><br><br>
 I believe in simplicity, precision, and purpose in everything I create. Like a Japanese garden, my code aims to be both functional and beautiful - each element serving its purpose while contributing to the whole.
 </details>
 
@@ -38,7 +38,7 @@ I believe in simplicity, precision, and purpose in everything I create. Like a J
 <div align="center">
 
 ```
-技術 • Gijutsu: The art of skill refined through persistent practice
+The art of skill refined through persistent practice
 ```
 
 <table>
@@ -59,10 +59,7 @@ I believe in simplicity, precision, and purpose in everything I create. Like a J
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
       <br>GitHub
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
-    </td>
+
   </tr>
 </table>
 
@@ -85,17 +82,6 @@ I believe in simplicity, precision, and purpose in everything I create. Like a J
   <img src="https://github-profile-trophy.vercel.app/?username=GianT404&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GianT404's trophies" />
 </div>
 
-## ⛰️ Journey Through Time
-
-```
-        ⛩️             🏯                  🎋
-  *             *                 *
-*****       *******           *********
-  |            |                 |
-First         Now             Future
-Commit      Building         Horizons
-```
-
 </div>
 
 ## 🌸 Let's Connect
@@ -104,7 +90,7 @@ Commit      Building         Horizons
 
 *Like cherry blossoms that bring people together, let's connect and create something beautiful.*
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YourTwitter)
+
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
