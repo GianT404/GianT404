@@ -19,17 +19,17 @@ I craft digital experiences through elegant code and thoughtful design. My work 
 <details>
 <summary><b>🏯 My Philosophy</b></summary>
 <br>
-<i>Never leave a task unfinished.</i><br><br>
-I believe in simplicity, precision, and purpose in everything I create. Like a Japanese garden, my code aims to be both functional and beautiful - each element serving its purpose while contributing to the whole.
+<i>"Winter is coming"</i><br><br>
+
 </details>
 
 ## 🔮 Current Projects
 
 <div align="center">
 
-| 🌊 Winter | 🎯 CodeX | ⭐ Katyusha |
-|:--------:|:--------:|:--------:|
-| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=GianT404&repo=Winter&theme=tokyonight" width="250">](https://github.com/GianT404/Winter) | [<img src="https://github-readme-stats.vercel.app/api/pin/?username=GianT404&repo=CodeX&theme=tokyonight" width="250">](https://github.com/GianT404/CodeX) | [<img src="https://github-readme-stats.vercel.app/api/pin/?username=GianT404&repo=Katyusha_demo&theme=tokyonight" width="250">](https://github.com/GianT404/Katyusha_demo) |
+| 🌊 Winter | ⭐ Katyusha |
+|:--------:|:--------:|
+| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=GianT404&repo=Winter&theme=tokyonight" width="250">](https://github.com/GianT404/Winter) | [<img src="https://github-readme-stats.vercel.app/api/pin/?username=GianT404&repo=Katyusha_demo&theme=tokyonight" width="250">](https://github.com/GianT404/Katyusha_demo) |
 
 </div>
 
@@ -65,7 +65,7 @@ The art of skill refined through persistent practice
 
 </div>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
   <table border="0" align="center">
@@ -91,8 +91,8 @@ The art of skill refined through persistent practice
 *Like cherry blossoms that bring people together, let's connect and create something beautiful.*
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:longgiap.qng@gmail.com)
 
 ```
 Thank you for visiting
