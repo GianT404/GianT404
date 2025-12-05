@@ -13,12 +13,6 @@
 
 <br /><br />
 
-<!-- 2. THE WOW FACTOR: ISOMETRIC CITY 3D (ĐÃ FIX LINK) -->
-<!-- Link ảnh gốc (Raw), không phải link Google Search nhé -->
-<img src="https://raw.githubusercontent.com/lowlighter/metrics/master/examples/metrics.plugin.isocalendar.svg" alt="Isometric City" width="100%" />
-
-<br /><br />
-
 <!-- 3. TECH STACK: NEON BADGES STYLE -->
 <h3>SYSTEM KERNEL</h3>
 
@@ -78,9 +72,7 @@
 
 <!-- 5. ACTIVITY STREAM: SNAKE ANIMATION (ĐÃ FIX LINK) -->
 <h3>📊 DATA STREAM</h3>
-<!-- Đã fix link Google Search lỗi. Đổi màu rắn sang màu hồng Neon (F75C7E) cho khớp theme -->
-<img src="https://github-readme-snake.vercel.app/api?username=GianT404&palette=github-dark&color_snake=F75C7E&color_dots=21262d" alt="snake" width="100%" />
-
+<img src="https://raw.githubusercontent.com/GianT404/GianT404/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
 <br /><br />
 
 <!-- 6. FOOTER: PIXEL ART ANIMATION -->
