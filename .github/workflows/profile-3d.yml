@@ -1,24 +1,29 @@
-name: GitHub-Profile-3D-Contrib
-
+name: Metrics
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  # Chạy tự động mỗi ngày lúc 0h
+  schedule: [{cron: "0 0 * * *"}]
+  # Cho phép chạy thủ công
   workflow_dispatch:
+  # Chạy mỗi khi push vào main
+  push: {branches: ["main", "master"]}
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
+      - uses: lowlighter/metrics@latest
+        with:
+          # Token mặc định của GitHub
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Cấu hình user
+          user: GianT404
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Ho_Chi_Minh
+
+          # Kích hoạt chế độ Isometric (Thành phố 3D)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
