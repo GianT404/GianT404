@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=A9A9A9&center=true&vCenter=true&width=500&lines=Frontend+Developer;Creative+Coder;Minimalist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=A9A9A9&center=true&vCenter=true&width=500&lines=Frontend+Developer;Creative+Coder" alt="Typing SVG" />
 
   <p>
     <a href="https://github.com/GianT404">
