@@ -1,93 +1,165 @@
 <div align="center">
 
-<!-- 1. HEADER: DYNAMIC WAVE + TYPING EFFECT -->
-<!-- Cái này nhìn vào là thấy màu sắc ngay -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=HI%20I%27M%&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff&desc=FRONTEND%20DEVELOPER%20%7C%20UI%2FUX%20DESIGNER&descAlignY=60&descSize=20" width="100%" />
+<!-- HERO SECTION với Gradient Animation -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=HI%20I'M&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&stroke=000000&strokeWidth=2&desc=Frontend%20Developer%20%7C%20Designer%&descAlignY=55&descSize=18" width="100%" />
 
-<br />
+<!-- Typing Effect với style cyberpunk -->
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E_+Initializing+creative+mode...;%3E_+Winter+is+coming+%E2%9D%84%EF%B8%8F;%3E_+Building+the+future%2C+one+pixel+at+a+time" alt="Typing SVG" />
 
-<!-- Typing effect cho câu quote "Winter is coming" -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=System.init(%22Winter+is+coming%22)%3B;Loading+Creativity...;Wait+for+it..." alt="Typing SVG" />
-</a>
+<!-- Divider Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<br /><br />
+---
 
-<!-- 3. TECH STACK: NEON BADGES STYLE -->
-<h3>SYSTEM KERNEL</h3>
+### **TECH ARSENAL**
 
-<!-- Dùng Skill Icons cho nó rực rỡ sắc màu -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,dart,html,css&perline=6" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,supabase,nodejs,firebase,vercel,git,figma,postman&perline=10" />
-  </a>
-</p>
-
-<br />
-
-<!-- 4. FEATURED PROJECT: HOLOGRAPHIC TABLE -->
-<h3>DEPLOYED MODULES</h3>
-<!-- Bắt đầu bảng layout 2 cột -->
-<table border="0" width="100%">
-  <tr>
-    <!-- CỘT 1: COLDBASE -->
-    <td align="center" width="50%">
-      <br />
-      <img src="http://coldbase.id.vn/images/logo_github.png" width="30%" style="border-radius: 8px" />
-      <br /><br />
-      <b>COLDBASE</b>
-      <br />
-      <i>Trading platform for collectors.</i>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-      <br /><br />
-      <a href="https://coldbase.id.vn/"><strong>[ Demo ]</strong></a>
-      <br /><br />
-    </td>
-    <!-- CỘT 2: DỰ ÁN KHÁC (PROJECT X) -->
-    <td align="center" width="50%">
-      <br />
-      <!-- Đã thay link localhost lỗi bằng ảnh placeholder -->
-      <img src="http://coldbase.id.vn/images/Katyusha.svg" width="30%" style="border-radius: 8px" />
-      <br /><br />
-      <b>Katyusha</b>
-      <br />
-      <i>Chatbot</i>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-      <br /><br />
-      <a href="https://github.com/GianT404/Katyusha_demo"><strong>[ Github ]</strong></a>
-      <br /><br />
-    </td>
-  </tr>
+<!-- Tech Stack với Modern Layout -->
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=ts" width="48"/>
+<br/><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48"/>
+<br/><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react" width="48"/>
+<br/><sub><b>React</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/>
+<br/><sub><b>Tailwind</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="48"/>
+<br/><sub><b>Python</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flutter" width="48"/>
+<br/><sub><b>Flutter</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=supabase" width="48"/>
+<br/><sub><b>Supabase</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="48"/>
+<br/><sub><b>Figma</b></sub>
+</td>
+</tr>
 </table>
 
-<br />
+<br/>
 
-<!-- 5. ACTIVITY STREAM: SNAKE ANIMATION (ĐÃ FIX LINK) -->
-<h3>📊 DATA STREAM</h3>
-<img src="https://raw.githubusercontent.com/GianT404/GianT404/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
-<br /><br />
+<!-- Divider Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-<!-- 6. FOOTER: PIXEL ART ANIMATION -->
+### **FEATURED PROJECTS**
+
+<!-- Project Cards với Modern Design -->
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="http://coldbase.id.vn/images/logo_github.png" width="120" style="border-radius: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.2)"/>
+
+### **COLDBASE** 
+*Trading platform for collectors.*
+
+```yaml
+stack: [Next.js, Supabase, TypeScript]
+status: Live & Running
+version: 2.0.0
+```
+
+[![Demo](https://img.shields.io/badge/Live_Demo-667eea?style=for-the-badge)](https://coldbase.id.vn/)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="http://coldbase.id.vn/images/Katyusha.svg" width="120" style="border-radius: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.2)"/>
+
+### **KATYUSHA**
+* Chatbot Assistant*
+
+```yaml
+stack: [Flutter, Firebase, Dart]
+status: In Development
+version: 1.0.0-beta
+```
+
+[![GitHub](https://img.shields.io/badge/Repository-f093fb?style=for-the-badge)](https://github.com/GianT404/Katyusha_demo)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+### **ACTIVITY METRICS**
+
+<!-- GitHub Stats Cards -->
+<table width="100%">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=GianT404&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=ffffff" width="100%" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GianT404&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea" width="100%" />
+</td>
+</tr>
+</table>
+
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GianT404/GianT404/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GianT404/GianT404/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GianT404/GianT404/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+<!-- Wave Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<br />
+### **LET'S CONNECT**
 
-<p>
+<p align="center">
 <a href="mailto:longgiap.qng@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://portfolio-gian404.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/GianT404">
+<img src="https://img.shields.io/badge/GitHub-764ba2?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
 </p>
+
+<br/>
+
+<!-- Profile Views Counter -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=GianT404&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile views" />
+</p>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%" />
 
 </div>
