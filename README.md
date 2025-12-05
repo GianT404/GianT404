@@ -5,7 +5,7 @@
 
 <!-- Typing Effect với style cyberpunk -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E_+Initializing+creative+mode...;%3E_+Winter+is+coming+%E2%9D%84%EF%B8%8F;%3E_+Building+the+future%2C+one+pixel+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E_+Initializing+creative+mode...;%3E_+Winter+is+coming;%3E_+Building+the+future%2C+one+pixel+at+a+time" alt="Typing SVG" />
 
 <!-- Divider Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -73,11 +73,11 @@
 ### **COLDBASE** 
 *Trading platform for collectors.*
 
-```yaml
+<pre>
 stack: [Next.js, Supabase, TypeScript]
 status: Live & Running
 version: 2.0.0
-```
+</pre>
 
 [![Demo](https://img.shields.io/badge/Live_Demo-667eea?style=for-the-badge)](https://coldbase.id.vn/)
 
@@ -90,13 +90,13 @@ version: 2.0.0
 <img src="http://coldbase.id.vn/images/Katyusha.svg" width="120" style="border-radius: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.2)"/>
 
 ### **KATYUSHA**
-* Chatbot Assistant*
+*Chatbot Assistant*
 
-```yaml
+<pre>
 stack: [Flutter, Firebase, Dart]
 status: In Development
 version: 1.0.0-beta
-```
+</pre>
 
 [![GitHub](https://img.shields.io/badge/Repository-f093fb?style=for-the-badge)](https://github.com/GianT404/Katyusha_demo)
 
