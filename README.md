@@ -12,7 +12,7 @@
 
 ---
 
-### **TECH ARSENAL**
+### **TECH STACK**
 
 <!-- Tech Stack với Modern Layout -->
 <table>
