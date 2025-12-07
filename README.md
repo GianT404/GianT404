@@ -7,8 +7,8 @@
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E_+Initializing+creative+mode...;%3E_+Winter+is+coming;%3E_+Building+the+future%2C+one+pixel+at+a+time" alt="Typing SVG" />
 
-<!-- Divider Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<!-- Wave Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 
 ### **TECH STACK**
@@ -122,17 +122,9 @@ version: 1.0.0-beta
 </tr>
 </table>
 
-<!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GianT404/GianT404/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GianT404/GianT404/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GianT404/GianT404/output/github-contribution-grid-snake.svg">
-</picture>
 
 <br/>
 
-<!-- Wave Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ### **LET'S CONNECT**
 
