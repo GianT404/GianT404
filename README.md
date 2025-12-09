@@ -1,11 +1,8 @@
 <div align="center">
 
-<!-- HERO SECTION với Gradient Animation -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=HI%20I'M&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&stroke=000000&strokeWidth=2&desc=Frontend%20Developer%20%7C%20Designer%&descAlignY=55&descSize=18" width="100%" />
-
 <!-- Typing Effect với style cyberpunk -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E_+Initializing+creative+mode...;%3E_+Winter+is+coming;%3E_+Building+the+future%2C+one+pixel+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E_+Hi+i'm+developer...;%3E_+Winter+is+coming;%3E_+Building+the+future%2C+one+pixel+at+a+time" alt="Typing SVG" />
 
 <!-- Wave Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
