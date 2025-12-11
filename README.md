@@ -2,7 +2,7 @@
 
 <!-- Typing Effect với style cyberpunk -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E_+Hi+i'm+developer...;%3E_+Winter+is+coming;%3E_+Building+the+future%2C+one+pixel+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E_+Winter+is+coming;%3E_+Building+the+future%2C+one+pixel+at+a+time" alt="Typing SVG" />
 
 <!-- Wave Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -133,18 +133,9 @@ version: 1.0.0-beta
 <a href="https://portfolio-gian404.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/GianT404">
-<img src="https://img.shields.io/badge/GitHub-764ba2?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-</a>
 </p>
 
 <br/>
-
-<!-- Profile Views Counter -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=GianT404&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile views" />
-</p>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%" />
