@@ -64,7 +64,7 @@
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="http://coldbase.id.vn/images/logo_github.png" width="120" style="border-radius: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.2)"/>
+<img src="https://portfolio-gian404.vercel.app/logo_github.png" width="120" style="border-radius: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.2)"/>
 
 ### **COLDBASE** 
 *Trading platform for collectors.*
@@ -83,18 +83,19 @@ version: 2.0.0
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="http://coldbase.id.vn/images/Katyusha.svg" width="120" style="border-radius: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.2)"/>
+<img src="https://portfolio-gian404.vercel.app/Katyusha.svg" width="120" style="border-radius: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.2)"/>
 
 ### **KATYUSHA**
-*Chatbot Assistant*
+*Chat real-time*
 
 <pre>
-stack: [Flutter, Firebase, Dart]
+stack: [.Net, React]
 status: In Development
 version: 1.0.0-beta
 </pre>
 
-[![GitHub](https://img.shields.io/badge/Repository-f093fb?style=for-the-badge)](https://github.com/GianT404/Katyusha_demo)
+[![GitHub](https://img.shields.io/badge/Repository-f093fb?style=for-the-badge)](https://github.com/GianT404/Winter)
+[![Demo](https://img.shields.io/badge/Live_Demo-667eea?style=for-the-badge)](https://winter-rho-flame.vercel.app/login)
 
 </div>
 
