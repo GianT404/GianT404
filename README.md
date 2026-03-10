@@ -13,9 +13,8 @@
 *Trading platform for collectors.*
 
 <pre>
-stack: [Next.js, Supabase, TypeScript]
+stack: [Next.js, Supabase]
 status: Live & Running
-version: 2.0.0
 </pre>
 
 [![Demo](https://img.shields.io/badge/Live_Demo-667eea?style=for-the-badge)](https://coldbase.id.vn/)
@@ -28,17 +27,16 @@ version: 2.0.0
 <div align="center">
 <img src="https://portfolio-gian404.vercel.app/Katyusha.svg" width="120" style="border-radius: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.2)"/>
 
-### **KATYUSHA**
-*Chat real-time*
+### **SOM**
+*Streaming & Offline Music*
 
 <pre>
-stack: [.Net, React]
+stack: [React native, Go]
 status: In Development
-version: 1.0.0-beta
 </pre>
 
-[![GitHub](https://img.shields.io/badge/Repository-f093fb?style=for-the-badge)](https://github.com/GianT404/Winter)
-[![Demo](https://img.shields.io/badge/Live_Demo-667eea?style=for-the-badge)](https://winter-rho-flame.vercel.app/login)
+[![GitHub](https://img.shields.io/badge/Repository-f093fb?style=for-the-badge)](https://github.com/GianT404/Som)
+[![Demo](https://img.shields.io/badge/Live_Demo-667eea?style=for-the-badge)]([https://winter-rho-flame.vercel.app/login](https://github.com/GianT404/SOM/releases/tag/musicPlayer))
 
 </div>
 
