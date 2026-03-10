@@ -36,7 +36,7 @@ status: In Development
 </pre>
 
 [![GitHub](https://img.shields.io/badge/Repository-f093fb?style=for-the-badge)](https://github.com/GianT404/Som)
-[![Demo](https://img.shields.io/badge/Live_Demo-667eea?style=for-the-badge)]([https://winter-rho-flame.vercel.app/login](https://github.com/GianT404/SOM/releases/tag/musicPlayer))
+[![Demo](https://img.shields.io/badge/Live_Demo-667eea?style=for-the-badge)]([https://github.com/GianT404/SOM/releases/tag/musicPlayer])
 
 </div>
 
