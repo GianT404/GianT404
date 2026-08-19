@@ -4,12 +4,12 @@
 
 ## Know About Me
 
-<table style="border: none;">
+<table style="border: none; border-collapse: collapse;">
 <tr>
-<td style="border: none;" width="300" valign="top">
+<td width="300" valign="top" style="border: none;">
 <img src="./assets/av.jpg" width="200" style="filter:grayscale(100%);"/>
 </td>
-<td style="border: none;" valign="top">
+<td valign="top" style="border: none;">
 
 **Hey there! I'm Giap.**
 
@@ -17,7 +17,7 @@
 
 Once upon a time, there was a curious kid who installed Linux just because someone told him:
 
-> “Linux is cool.”
+> "Linux is cool."
 
 And that was the beginning of the end.
 
@@ -26,6 +26,10 @@ Since then, I've been messing around with code, terminals, servers, and all kind
 **I use Arch btw.**
 
 </div>
+
+</td>
+</tr>
+</table>
 
 
 </td>
