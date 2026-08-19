@@ -2,18 +2,9 @@
 <img src="./assets/header.png" width="100%" />
 </div>
 
-## Know About Me
+## Hey there! I'm Giap.**
 
-<table style="border: none; border-collapse: collapse;">
-<tr>
-<td width="300" valign="top" style="border: none;">
-<img src="./assets/av.jpg" width="200" style="filter:grayscale(100%);"/>
-</td>
-<td valign="top" style="border: none;">
-
-**Hey there! I'm Giap.**
-
-<div align="justify">
+<img align="left" src="./assets/av.jpg" width="200" alt="Avatar"/>
 
 Once upon a time, there was a curious kid who installed Linux just because someone told him:
 
@@ -25,16 +16,7 @@ Since then, I've been messing around with code, terminals, servers, and all kind
 
 **I use Arch btw.**
 
-</div>
-
-</td>
-</tr>
-</table>
-
-
-</td>
-</tr>
-</table>
+<br clear="left"/>
 
 ## Connect
 
