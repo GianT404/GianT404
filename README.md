@@ -4,12 +4,12 @@
 
 ## Know About Me
 
-<table border="0">
+<table style="border: none;">
 <tr>
-<td width="300" valign="top">
+<td style="border: none;" width="300" valign="top">
 <img src="./assets/av.jpg" width="200" style="filter:grayscale(100%);"/>
 </td>
-<td valign="top">
+<td style="border: none;" valign="top">
 
 **Hey there! I'm Giap.**
 
