@@ -2,7 +2,7 @@
 <img src="./assets/header.png" width="100%" />
 </div>
 
-## Hey there! I'm Giap.**
+## Hey there! I'm Giap.
 
 <img align="left" src="./assets/av.jpg" width="200" alt="Avatar"/>
 
