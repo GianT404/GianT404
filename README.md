@@ -4,7 +4,7 @@
 
 ## Know About Me
 
-<table>
+<table border="0">
 <tr>
 <td width="300" valign="top">
 <img src="./assets/av.jpg" width="200" style="filter:grayscale(100%);"/>
