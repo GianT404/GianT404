@@ -36,13 +36,14 @@ Since then, I've been messing around with code, terminals, servers, and all kind
 ## Contribution
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GianT404&theme=minimal&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true&hide_title=true" width="100%" />
+  <img
+    src="https://github-readme-activity-graph-seven-red.vercel.app/graph?username=GianT404&theme=github-compact&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true&hide_title=true"
+    width="100%"
+  />
 </div>
-
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GianT404&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GianT404&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="49%" />
 </div>
 
