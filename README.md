@@ -28,10 +28,6 @@ Since then, I've been messing around with code, terminals, servers, and all kind
 
 <br/>
 
-> Just because code runs doesn't mean it's correct; it just hasn't failed yet.
-
-
-<br/>
 
 ## Contribution
 
