@@ -30,6 +30,9 @@ Since then, I've been messing around with code, terminals, servers, and all kind
 
 
 ## Contribution
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GianT404&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="49%" />
+</div>
 
 <div align="center">
   <img
@@ -39,9 +42,6 @@ Since then, I've been messing around with code, terminals, servers, and all kind
 </div>
 <br/>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GianT404&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="49%" />
-</div>
 
 <br/>
 
