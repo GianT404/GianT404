@@ -1,5 +1,7 @@
 <div align="center">
-<img src="./assets/header.png" width="100%" />
+<a href="https://giant404.github.io/GianT404/" title="Open the animated ASCII landscape">
+  <img src="./assets/header-ascii.svg" width="100%" alt="ASCII pixel-art landscape — click to view the animated version" />
+</a>
 </div>
 
 ## Hey there! I'm Giap.
