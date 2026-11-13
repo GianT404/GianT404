@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="2100" height="900" viewBox="0 0 200 62" role="img" aria-labelledby="title desc">
-  <title id="title">21:9 ASCII landscape header</title>
-  <rect width="100%" height="100%"/>
   <g font-family="DejaVu Sans Mono, Liberation Mono, monospace" font-size="1" font-weight="400" text-rendering="geometricPrecision" shape-rendering="crispEdges">
     <text x="199" y="10.82" fill="#8993a2" textLength="1" lengthAdjust="spacingAndGlyphs">░</text>
     <text x="198" y="11.82" fill="#8993a2" textLength="2" lengthAdjust="spacingAndGlyphs">░░</text>
